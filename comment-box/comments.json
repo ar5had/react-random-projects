@@ -1,0 +1,12 @@
+[
+    {
+        "id": 111111111111111,
+        "author": "Author1",
+        "text": "Comment no 1"
+    },
+    {
+        "id": 222222222222222,
+        "author": "Author no 2",
+        "text": "Comment no 2"
+    }
+]
